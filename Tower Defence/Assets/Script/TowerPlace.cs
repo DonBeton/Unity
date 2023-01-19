@@ -10,7 +10,7 @@ public class TowerPlace : MonoBehaviour
 
     private void Start() {
         _empty = true;
-        _ofset += new Vector3(0,1.3f,0); 
+        _ofset += new Vector3(0,0.4f,0); 
     }
     private void OnMouseDown() 
     {
